@@ -48,5 +48,8 @@ Using PostgreSQL and Power BI, I built a relational data model, calculated key b
 
 ---
 
+## Dashboard Preview
+<img width="669" height="361" alt="Ecommerce dashboard" src="https://github.com/user-attachments/assets/7498586a-678c-44a2-9e4e-195b44d009c9" />
+
 ## Author
 Shreya Arutla
